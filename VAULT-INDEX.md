@@ -7,7 +7,7 @@
 ## Open Threads                                  
   - [ ] Competitor analysis: 5 pending (linkedhelper, dripify, engage-ai, commenter.ai, socialsonic)
   - [ ] SEO comparison pages: need NW score 70+                    
-  - [ ] Obsidian vault setup (in progress)
+  - [x] Obsidian vault setup — complete (Dataview + CRASH_BUFFER wired)
 ## Recent Sessions                                           
   - (session digests will appear here)                                                                                                      
   ## Quick Nav                           
@@ -18,6 +18,7 @@
 | SEO strategy              | [[02-Areas/seo/index]]                  |     |
 | Hooks & automation        | [[02-Areas/hooks-and-automation/index]] |     |
 | Tools & credentials       | [[03-Resources/tools/index]]            |     |
+| Live dashboard (Dataview) | [[99-Meta/dashboard]]                  |     |
 ## Memory Hygiene                    
   - CLAUDE.md > 280 lines → archive to CLAUDE-Archive.md   
   - 00-INBOX > 5 files → process before new work
