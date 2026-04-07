@@ -16,6 +16,7 @@
 | GrowReach product context | [[01-Projects/growreach/index]]         |     |
 | Competitor data           | [[02-Areas/competitors/index]]          |     |
 | SEO strategy              | [[02-Areas/seo/index]]                  |     |
+| SaaS/marketing frameworks | [[02-Areas/saas-frameworks/index]]      |     |
 | Hooks & automation        | [[02-Areas/hooks-and-automation/index]] |     |
 | Tools & credentials       | [[03-Resources/tools/index]]            |     |
 | Scripts Claude can run    | [[03-Resources/tools/scripts-catalog]]  |     |
