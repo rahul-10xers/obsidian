@@ -18,6 +18,10 @@
 | SEO strategy              | [[02-Areas/seo/index]]                  |     |
 | Hooks & automation        | [[02-Areas/hooks-and-automation/index]] |     |
 | Tools & credentials       | [[03-Resources/tools/index]]            |     |
+| Scripts Claude can run    | [[03-Resources/tools/scripts-catalog]]  |     |
+| Hooks & enforcement       | [[03-Resources/tools/hooks-catalog]]    |     |
+| Skills & commands         | [[03-Resources/tools/skills-catalog]]   |     |
+| Agents catalog            | [[03-Resources/tools/agents-catalog]]   |     |
 | Live dashboard (Dataview) | [[99-Meta/dashboard]]                  |     |
 ## Memory Hygiene                    
   - CLAUDE.md > 280 lines → archive to CLAUDE-Archive.md   
