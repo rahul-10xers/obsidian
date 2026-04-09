@@ -8,8 +8,8 @@
   - [ ] Competitor analysis: 5 pending (linkedhelper, dripify, engage-ai, commenter.ai, socialsonic)
   - [ ] SEO comparison pages: need NW score 70+                    
   - [x] Obsidian vault setup — complete (Dataview + CRASH_BUFFER wired)
-## Recent Sessions                                           
-  - (session digests will appear here)                                                                                                      
+## Recent Sessions
+  - [[99-Meta/session-digests/2026-04-09-vault-sync-and-claude-activation]] — Vault knowledge sync complete (45 files). CLAUDE.md activated with vault rules. Next: validate in fresh session.                                                                                                      
   ## Quick Nav                           
 | What you need             | Go to                                   |     |
 | ------------------------- | --------------------------------------- | --- |
