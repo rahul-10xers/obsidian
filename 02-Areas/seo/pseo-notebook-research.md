@@ -48,10 +48,12 @@
 - Each row = one published page
 - Airtable for relational data if needed (update one field → updates all pages)
 
-### Phase 4: Content Generation
-- NeuronWriter API → NLP terms per keyword → passed as mandatory inclusions to Claude
-- Claude writes unique content per page using NLP terms + matrix data
-- Dynamic prompts (not copy-paste) = genuinely unique content
+### Phase 4: Content Generation (NeuronWriter writes — not Claude)
+- NeuronWriter IS the content writer. It analyzes the top-10 SERP pages and generates the article.
+- Claude's role: create the NW query → surface the NW editor URL → **stop and wait**.
+- User opens NW editor, clicks AI Writer → Generate Content, reviews/edits, saves.
+- When user confirms score is good → Claude calls `getContent(queryId)` → pushes to WP draft.
+- Claude does NOT write article content. NLP terms are NW's internal scoring mechanism, not a Claude prompt.
 
 ### Phase 5: Publishing to WordPress
 - REST API: POST /wp-json/wp/v2/posts
