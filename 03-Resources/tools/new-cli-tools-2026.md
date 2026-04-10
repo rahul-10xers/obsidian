@@ -13,7 +13,7 @@ tags: [cli, playwright, obsidian, tools, claude-code]
 ## Priority Upgrades (implement first)
 
 ### 1. Playwright CLI ← UPGRADE FROM MCP/SCREENSHOTS
-**Status:** npx playwright v1.58.2 installed. No skill wired. No CLI in PATH.
+**Status:** ✓ DONE — `--mode aria` added to `scripts/scrape.js`. `/playwright-cli` skill wired. Uses `locator.ariaSnapshot()` (Playwright 1.46+).
 **Why upgrade now:** 90,000 fewer tokens vs MCP. Uses accessibility tree not screenshots. Spins up 5+ Chrome instances simultaneously. Free (pay tokens only).
 **Current problem:** Our scrape.js uses Playwright but via screenshot path — much more expensive.
 
