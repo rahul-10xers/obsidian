@@ -9,6 +9,7 @@
   - [ ] SEO comparison pages: need NW score 70+                    
   - [x] Obsidian vault setup — complete (Dataview + CRASH_BUFFER wired)
 ## Recent Sessions
+  - [[99-Meta/session-logs/2026-04-10]] — 2026-04-10 07:52: session recorded (no new commits)
   - [[99-Meta/session-logs/2026-04-10]] — 2026-04-10 07:51: session recorded (no new commits)
   - [[99-Meta/session-logs/2026-04-10]] — 2026-04-10 07:50: fix: correct WP theme name, category IDs, and add all 4 page-type payl… +2 more
   - [[99-Meta/session-digests/2026-04-09-vault-sync-and-claude-activation]] — Vault knowledge sync complete (45 files). CLAUDE.md activated with vault rules. Next: validate in fresh session.                                                                                                      
