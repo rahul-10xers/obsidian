@@ -30,6 +30,17 @@ Vault = knowledge persistence layer. Repo (`ClaudeCode2.0`) = operational files,
 - **Index files** in each area/project = mini-maps. Read before scanning files.
 - **Flatten where possible** — don't create deep nesting. Tokens burn on path resolution.
 - **Backlinks** are the real value — a note mentioning another note forms a relationship Claude can traverse.
+- **Search first with QMD** — before reading files with Glob/Grep, use `qmd query "..."` to find relevant vault notes semantically. Collection: `obsidian-vault`. Saves 60%+ tokens vs filesystem sweeps.
+
+## QMD Search (vault semantic search)
+
+```bash
+qmd query "your question in natural language"              # hybrid: auto-expands + reranks
+qmd search "exact keywords"                                # BM25 only, no LLM
+qmd query --json "question" | head -5                      # with score traces
+```
+
+Use QMD when: cross-topic research, "what do my notes say about X", finding latent connections, any time you'd otherwise glob/grep 5+ files.
 
 ## File Naming Convention
 

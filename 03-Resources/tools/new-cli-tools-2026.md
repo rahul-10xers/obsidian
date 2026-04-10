@@ -31,27 +31,21 @@ Key commands Claude can use once skill is installed:
 - Multiple tabs: Claude can run 5 parallel instances automatically
 
 ### 2. Obsidian CLI ← NEW (enables backlink graph traversal)
-**Status:** NOT installed.
+**Status:** PENDING — requires Obsidian 1.12+ desktop app action (NOT an npm package).
 **Why it matters:** Without this, Claude reads vault files as flat text. WITH this, Claude can traverse the backlink graph — see "this note is connected to these 5 other notes" and surface latent patterns across the vault.
-**Install:**
-```bash
-# Install via npm (official Obsidian CLI)
-npm install -g obsidian-cli
-# Or check: https://github.com/obsidianmd/obsidian-cli
-# After install: obsidian --help  (shows 95 commands)
-```
+**Correct install (one-time, done in Obsidian app):**
+1. Open Obsidian desktop app → Settings → General
+2. Scroll to "Command line interface" → Enable it
+3. Follow on-screen instructions to add `obsidian` to system PATH
+4. Verify: `obsidian --help` in terminal (should show 95 commands)
+
+⚠️ The `obsidian-cli` npm package (v0.5.1, no repo/description) is NOT this — it's an unrelated package.
 
 ### 3. QMD — Semantic Search for Markdown ← NEW
-**Status:** NOT installed.
+**Status:** ✓ DONE — `npm install -g @tobilu/qmd` v2.1.0. Vault collection `obsidian-vault` indexed (60 files). Skill wired at `.claude/skills/qmd`. Run `qmd embed` to refresh vectors after adding notes.
 **Why:** 60%+ token reduction vs grep/glob on vault. Uses BM25 + vector semantic + LLM re-ranking. Created by Shopify CEO Tobi Lutke. Runs 100% locally.
-**Use case:** "How might my LinkedIn fatigue notes connect to the email campaign I'm planning?" — Claude finds the link without being told which files to read.
-**Install:**
-```bash
-# QMD by Tobi Lutke (Shopify CEO)
-# Search: "QMD markdown semantic search Tobi Lutke"
-# Repo: https://github.com/tobi/qmd (verify URL)
-npm install -g qmd  # or per their docs
-```
+**Use:** `qmd query "your question"` — finds relevant vault notes semantically. No need to know which file to read.
+**Package:** `@tobilu/qmd` (NOT the `qmd` placeholder on npm) | [github.com/tobi/qmd](https://github.com/tobi/qmd)
 
 ## Medium Priority
 

@@ -9,7 +9,7 @@
   - [ ] SEO comparison pages: need NW score 70+                    
   - [x] Obsidian vault setup — complete (Dataview + CRASH_BUFFER wired)
   - [x] Playwright CLI: `--mode aria` added to scrape.js, `/playwright-cli` skill wired — see [[03-Resources/tools/new-cli-tools-2026]]
-  - [ ] Obsidian CLI: install for backlink graph traversal — see [[03-Resources/tools/new-cli-tools-2026]]
+  - [x] Obsidian CLI: replaced by `vault-graph.js` on VPS (Obsidian desktop CLI = Mac-only binary). `scripts/vault-graph.js` has full graph traversal — `/vault-graph` skill wired — see [[03-Resources/tools/new-cli-tools-2026]]
   - [x] QMD: `@tobilu/qmd` v2.1.0 installed, vault indexed (60 files), `/qmd` skill wired — see [[03-Resources/tools/new-cli-tools-2026]]
 ## Recent Sessions
   - [[99-Meta/session-logs/2026-04-10]] — 2026-04-10 10:24: feat: add QMD vault search to tool routing, wire /qmd skill
