@@ -8,7 +8,11 @@
   - [ ] Competitor analysis: 5 pending (linkedhelper, dripify, engage-ai, commenter.ai, socialsonic)
   - [ ] SEO comparison pages: need NW score 70+                    
   - [x] Obsidian vault setup — complete (Dataview + CRASH_BUFFER wired)
+  - [x] Playwright CLI: `--mode aria` added to scrape.js, `/playwright-cli` skill wired — see [[03-Resources/tools/new-cli-tools-2026]]
+  - [ ] Obsidian CLI: install for backlink graph traversal — see [[03-Resources/tools/new-cli-tools-2026]]
+  - [ ] QMD: install semantic search (60%+ token reduction on vault reads) — see [[03-Resources/tools/new-cli-tools-2026]]
 ## Recent Sessions
+  - [[99-Meta/session-logs/2026-04-10]] — 2026-04-10 10:02: feat(scrape): add --mode aria (accessibility tree) to scrape.js + /pla…
   - [[99-Meta/session-logs/2026-04-10]] — 2026-04-10 09:31: refactor: slim CLAUDE.md 342→72 lines, extract verbose docs, add token…
   - [[99-Meta/session-logs/2026-04-10]] — 2026-04-10 08:54: refresh: notebooklm auth tokens (2026-04-10) +3 more
   - [[99-Meta/session-logs/2026-04-10]] — 2026-04-10 08:17: fix(auto-vault-log): deduplicate mid-session entries
@@ -32,6 +36,7 @@
 | SaaS/marketing frameworks | [[02-Areas/saas-frameworks/index]]      |     |
 | Hooks & automation        | [[02-Areas/hooks-and-automation/index]] |     |
 | Tools & credentials       | [[03-Resources/tools/index]]            |     |
+| New CLI tools (2026)      | [[03-Resources/tools/new-cli-tools-2026]] |     |
 | Scripts Claude can run    | [[03-Resources/tools/scripts-catalog]]  |     |
 | Hooks & enforcement       | [[03-Resources/tools/hooks-catalog]]    |     |
 | Skills & commands         | [[03-Resources/tools/skills-catalog]]   |     |
@@ -41,3 +46,5 @@
   - CLAUDE.md > 280 lines → archive to CLAUDE-Archive.md   
   - 00-INBOX > 5 files → process before new work
   - Write new captures to 00-INBOX only
+  - Binary files (images, PDFs) → `_attachments/` only (Claude cannot index them)
+  - Vault constitution: [[CLAUDE.md]] — read this for vault navigation rules
