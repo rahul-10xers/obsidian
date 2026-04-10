@@ -9,6 +9,7 @@
   - [ ] SEO comparison pages: need NW score 70+                    
   - [x] Obsidian vault setup — complete (Dataview + CRASH_BUFFER wired)
 ## Recent Sessions
+  - [[99-Meta/session-logs/2026-04-10]] — 2026-04-10 07:58: fix(auto-vault-log): use full GitHub URL for transcript links
   - [[99-Meta/session-logs/2026-04-10]] — 2026-04-10 07:58: session recorded (no new commits)
   - [[99-Meta/session-logs/2026-04-10]] — 2026-04-10 07:56: session recorded (no new commits)
   - [[99-Meta/session-logs/2026-04-10]] — 2026-04-10 07:55: docs(claude.md): relax Rule #17 — digest is optional, facts are auto-s…
