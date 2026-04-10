@@ -9,6 +9,7 @@
   - [ ] SEO comparison pages: need NW score 70+                    
   - [x] Obsidian vault setup — complete (Dataview + CRASH_BUFFER wired)
 ## Recent Sessions
+  - [[99-Meta/session-logs/2026-04-10]] — 2026-04-10 09:31: refactor: slim CLAUDE.md 342→72 lines, extract verbose docs, add token…
   - [[99-Meta/session-logs/2026-04-10]] — 2026-04-10 08:54: refresh: notebooklm auth tokens (2026-04-10) +3 more
   - [[99-Meta/session-logs/2026-04-10]] — 2026-04-10 08:17: fix(auto-vault-log): deduplicate mid-session entries
   - [[99-Meta/session-logs/2026-04-10]] — 2026-04-10 08:06: session recorded (no new commits)
