@@ -12,6 +12,7 @@
   - [x] Obsidian CLI: replaced by `vault-graph.js` on VPS (Obsidian desktop CLI = Mac-only binary). `scripts/vault-graph.js` has full graph traversal — `/vault-graph` skill wired — see [[03-Resources/tools/new-cli-tools-2026]]
   - [x] QMD: `@tobilu/qmd` v2.1.0 installed, vault indexed (60 files), `/qmd` skill wired — see [[03-Resources/tools/new-cli-tools-2026]]
 ## Recent Sessions
+  - [[99-Meta/session-logs/2026-04-12]] — 2026-04-12 15:02: docs: add content registry mapping all 85 WP drafts to sources
   - [[99-Meta/session-logs/2026-04-12]] — 2026-04-12 14:11: Revert "fix: resolve 8 UI issues on Expandi comparison page (WP 1087)"
   - [[99-Meta/session-logs/2026-04-12]] — 2026-04-12 12:50: fix: resolve 8 UI issues on Expandi comparison page (WP 1087)
   - [[99-Meta/session-logs/2026-04-12]] — 2026-04-12 10:45: docs(memory): update NW tool routing — user owns query creation, Claud… +1 more
