@@ -12,6 +12,7 @@
   - [x] Obsidian CLI: replaced by `vault-graph.js` on VPS (Obsidian desktop CLI = Mac-only binary). `scripts/vault-graph.js` has full graph traversal — `/vault-graph` skill wired — see [[03-Resources/tools/new-cli-tools-2026]]
   - [x] QMD: `@tobilu/qmd` v2.1.0 installed, vault indexed (60 files), `/qmd` skill wired — see [[03-Resources/tools/new-cli-tools-2026]]
 ## Recent Sessions
+  - [[99-Meta/session-logs/2026-04-13]] — 2026-04-13 19:26: docs(plan): finalize Phase 1 scope — 1 skeleton page, remove 20-page b…
   - [[99-Meta/session-logs/2026-04-13]] — 2026-04-13 19:13: docs: add ACF free tools pages implementation plan
   - [[99-Meta/session-logs/2026-04-13]] — 2026-04-13 13:31: docs(wordpress): add free tool template + hub template to Mintlify
   - [[99-Meta/session-logs/2026-04-13]] — 2026-04-13 12:45: feat(theme): add Free Tools Hub dynamic PHP template
