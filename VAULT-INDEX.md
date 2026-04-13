@@ -12,6 +12,7 @@
   - [x] Obsidian CLI: replaced by `vault-graph.js` on VPS (Obsidian desktop CLI = Mac-only binary). `scripts/vault-graph.js` has full graph traversal — `/vault-graph` skill wired — see [[03-Resources/tools/new-cli-tools-2026]]
   - [x] QMD: `@tobilu/qmd` v2.1.0 installed, vault indexed (60 files), `/qmd` skill wired — see [[03-Resources/tools/new-cli-tools-2026]]
 ## Recent Sessions
+  - [[99-Meta/session-logs/2026-04-13]] — 2026-04-13 21:40: fix(free-tools): full CSS styling for page renderer snippet
   - [[99-Meta/session-logs/2026-04-13]] — 2026-04-13 20:57: fix(scripts): fix verifySiloUrl draft issue and slugExists error handl… +1 more
   - [[99-Meta/session-logs/2026-04-13]] — 2026-04-13 20:14: feat(content): add free tool page data skeleton (Phase 1: LinkedIn Hea… +4 more
   - [[99-Meta/session-logs/2026-04-13]] — 2026-04-13 19:57: refactor(plan): update ACF free tools plan with pre/post embed archite…
