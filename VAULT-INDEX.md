@@ -12,6 +12,7 @@
   - [x] Obsidian CLI: replaced by `vault-graph.js` on VPS (Obsidian desktop CLI = Mac-only binary). `scripts/vault-graph.js` has full graph traversal — `/vault-graph` skill wired — see [[03-Resources/tools/new-cli-tools-2026]]
   - [x] QMD: `@tobilu/qmd` v2.1.0 installed, vault indexed (60 files), `/qmd` skill wired — see [[03-Resources/tools/new-cli-tools-2026]]
 ## Recent Sessions
+  - [[99-Meta/session-logs/2026-04-13]] — 2026-04-13 10:40: feat(free-tools): add LinkedIn Headline Generator page HTML
   - [[99-Meta/session-logs/2026-04-13]] — 2026-04-13 10:27: feat(free-tools): add SEO landing page HTML/CSS template
   - [[99-Meta/session-logs/2026-04-13]] — 2026-04-13 10:20: Free Tool SEO Optimised Template layout
   - [[99-Meta/session-logs/2026-04-13]] — 2026-04-13 10:00: research(wordpress): programmatic template architecture — ACF + CPT pa…
