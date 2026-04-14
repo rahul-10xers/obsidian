@@ -12,6 +12,7 @@
   - [x] Obsidian CLI: replaced by `vault-graph.js` on VPS (Obsidian desktop CLI = Mac-only binary). `scripts/vault-graph.js` has full graph traversal — `/vault-graph` skill wired — see [[03-Resources/tools/new-cli-tools-2026]]
   - [x] QMD: `@tobilu/qmd` v2.1.0 installed, vault indexed (60 files), `/qmd` skill wired — see [[03-Resources/tools/new-cli-tools-2026]]
 ## Recent Sessions
+  - [[99-Meta/session-logs/2026-04-14]] — 2026-04-14 11:59: docs: add context management design spec
   - [[99-Meta/session-logs/2026-04-14]] — 2026-04-14 10:55: feat: add PostCompact hook to restore task state after mid-session com…
   - [[99-Meta/session-logs/2026-04-14]] — 2026-04-14 10:52: fix: doom-loop-guard NameError — move helper function defs before call…
   - [[99-Meta/session-logs/2026-04-14]] — 2026-04-14 10:49: docs: add Claude Code best practices golden doc + setup audit
