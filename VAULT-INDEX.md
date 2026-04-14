@@ -12,6 +12,7 @@
   - [x] Obsidian CLI: replaced by `vault-graph.js` on VPS (Obsidian desktop CLI = Mac-only binary). `scripts/vault-graph.js` has full graph traversal — `/vault-graph` skill wired — see [[03-Resources/tools/new-cli-tools-2026]]
   - [x] QMD: `@tobilu/qmd` v2.1.0 installed, vault indexed (60 files), `/qmd` skill wired — see [[03-Resources/tools/new-cli-tools-2026]]
 ## Recent Sessions
+  - [[99-Meta/session-logs/2026-04-14]] — 2026-04-14 07:45: fix(free-tools): strip H1 and NW image placeholders from pre_embed_htm…
   - [[99-Meta/session-logs/2026-04-14]] — 2026-04-14 07:41: fix(free-tools): register ft_* meta fields for WP REST API
   - [[99-Meta/session-logs/2026-04-14]] — 2026-04-14 07:37: docs(free-tools): fix script name references in architecture doc +1 more
   - [[99-Meta/session-logs/2026-04-13]] — 2026-04-13 21:50: docs: add free-tools page architecture doc
