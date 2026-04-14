@@ -12,6 +12,7 @@
   - [x] Obsidian CLI: replaced by `vault-graph.js` on VPS (Obsidian desktop CLI = Mac-only binary). `scripts/vault-graph.js` has full graph traversal — `/vault-graph` skill wired — see [[03-Resources/tools/new-cli-tools-2026]]
   - [x] QMD: `@tobilu/qmd` v2.1.0 installed, vault indexed (60 files), `/qmd` skill wired — see [[03-Resources/tools/new-cli-tools-2026]]
 ## Recent Sessions
+  - [[99-Meta/session-logs/2026-04-14]] — 2026-04-14 12:55: fix: research-guard use prefix word-boundary for stem keywords +5 more
   - [[99-Meta/session-logs/2026-04-14]] — 2026-04-14 12:19: refactor: merge context-monitor + output-truncator into bash-postuse.p… +3 more
   - [[99-Meta/session-logs/2026-04-14]] — 2026-04-14 12:08: docs: add context management implementation plan (6 tasks)
   - [[99-Meta/session-logs/2026-04-14]] — 2026-04-14 11:59: docs: add context management design spec
