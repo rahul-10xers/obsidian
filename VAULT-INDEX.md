@@ -12,6 +12,7 @@
   - [x] Obsidian CLI: replaced by `vault-graph.js` on VPS (Obsidian desktop CLI = Mac-only binary). `scripts/vault-graph.js` has full graph traversal — `/vault-graph` skill wired — see [[03-Resources/tools/new-cli-tools-2026]]
   - [x] QMD: `@tobilu/qmd` v2.1.0 installed, vault indexed (60 files), `/qmd` skill wired — see [[03-Resources/tools/new-cli-tools-2026]]
 ## Recent Sessions
+  - [[99-Meta/session-logs/2026-04-15]] — 2026-04-15 15:16: feat: add LinkedIn lead gen competitor homepage intelligence report
   - [[99-Meta/session-logs/2026-04-15]] — 2026-04-15 12:41: ClaudeClaw Setup Visual Guide +1 more
   - [[99-Meta/session-logs/2026-04-14]] — 2026-04-14 19:18: fix(crash-buffer): mechanical-first approach — shell writes git state,…
   - [[99-Meta/session-logs/2026-04-14]] — 2026-04-14 13:11: fix(statusline): printf injection, bar overflow, single jq call +2 more
