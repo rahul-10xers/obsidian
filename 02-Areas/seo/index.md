@@ -24,6 +24,10 @@ tags: [seo, index]
 - [[strategy/POSITIONING-BRIEF]] — Positioning brief for content
 - [[strategy/TOPICAL-MAP]] — Topical authority map
 
+## Free Tools Subfolder
+
+- [[free-tools/FREE-TOOL-SEO-STRATEGY]] — Complete SEO strategy for lead magnet free tool pages (NotebookLM-mined, Apr 2026)
+
 ## SEO Rules
 
 - NeuronWriter score 70+ required before any page publish (Rule #8)
