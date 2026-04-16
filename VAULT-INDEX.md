@@ -94,6 +94,7 @@
 | SEO strategy              | [[02-Areas/seo/index]]                  |     |
 | SaaS/marketing frameworks | [[02-Areas/saas-frameworks/index]]      |     |
 | Hooks & automation        | [[02-Areas/hooks-and-automation/index]] |     |
+| Paperclip agent OS guide  | [[02-Areas/tools/PAPERCLIP-IMPLEMENTATION-GUIDE]] |     |
 | Tools & credentials       | [[03-Resources/tools/index]]            |     |
 | New CLI tools (2026)      | [[03-Resources/tools/new-cli-tools-2026]] |     |
 | Scripts Claude can run    | [[03-Resources/tools/scripts-catalog]]  |     |
