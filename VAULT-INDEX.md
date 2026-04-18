@@ -12,6 +12,7 @@
   - [x] Obsidian CLI: replaced by `vault-graph.js` on VPS (Obsidian desktop CLI = Mac-only binary). `scripts/vault-graph.js` has full graph traversal — `/vault-graph` skill wired — see [[03-Resources/tools/new-cli-tools-2026]]
   - [x] QMD: `@tobilu/qmd` v2.1.0 installed, vault indexed (60 files), `/qmd` skill wired — see [[03-Resources/tools/new-cli-tools-2026]]
 ## Recent Sessions
+  - [[99-Meta/session-logs/2026-04-18]] — 2026-04-18 16:32: fix: add npm-global/bin to pm2 PATH so claude CLI is found +1 more
   - [[99-Meta/session-logs/2026-04-17]] — 2026-04-17 18:24: feat: NW→Sheet→WP batch publish pipeline
   - [[99-Meta/session-logs/2026-04-17]] — 2026-04-17 15:56: feat: add LinkedIn Hook Generator ACF payload + nw-to-free-tool-page s… +2 more
   - [[99-Meta/session-logs/2026-04-16]] — 2026-04-16 21:43: feat: add NW competitor headings scraper and content pipeline scripts
