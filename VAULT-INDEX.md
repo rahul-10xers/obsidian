@@ -12,6 +12,7 @@
   - [x] Obsidian CLI: replaced by `vault-graph.js` on VPS (Obsidian desktop CLI = Mac-only binary). `scripts/vault-graph.js` has full graph traversal — `/vault-graph` skill wired — see [[03-Resources/tools/new-cli-tools-2026]]
   - [x] QMD: `@tobilu/qmd` v2.1.0 installed, vault indexed (60 files), `/qmd` skill wired — see [[03-Resources/tools/new-cli-tools-2026]]
 ## Recent Sessions
+  - [[99-Meta/session-logs/2026-04-19]] — 2026-04-19 17:10: fix(nw-wizard): add page-state detection and submit competitor selecti… +1 more
   - [[99-Meta/session-logs/2026-04-19]] — 2026-04-19 16:31: fix(nw-wizard): correct meta field IDs, tinymce accessor, and generati…
   - [[99-Meta/session-logs/2026-04-19]] — 2026-04-19 15:10: fix: state-aware NW wizard automation with all session learnings
   - [[99-Meta/session-logs/2026-04-19]] — 2026-04-19 11:52: feat: add login fallback to NW wizard script +1 more
