@@ -12,6 +12,7 @@
   - [x] Obsidian CLI: replaced by `vault-graph.js` on VPS (Obsidian desktop CLI = Mac-only binary). `scripts/vault-graph.js` has full graph traversal — `/vault-graph` skill wired — see [[03-Resources/tools/new-cli-tools-2026]]
   - [x] QMD: `@tobilu/qmd` v2.1.0 installed, vault indexed (60 files), `/qmd` skill wired — see [[03-Resources/tools/new-cli-tools-2026]]
 ## Recent Sessions
+  - [[99-Meta/session-logs/2026-04-25]] — 2026-04-25 22:43: feat: comparison page pipeline — NW HTML → ACF mapper + publisher + wi…
   - [[99-Meta/session-logs/2026-04-25]] — 2026-04-25 22:23: fix: add Stop hook for auto-push + fix silent push failure in push-mem… +5 more
   - [[99-Meta/session-logs/2026-04-20]] — 2026-04-20 11:28: 1st draft of the final content injection process +1 more
   - [[99-Meta/session-logs/2026-04-19]] — 2026-04-19 19:57: fix(nw-wizard): check Remember Me checkbox before login submit +4 more
