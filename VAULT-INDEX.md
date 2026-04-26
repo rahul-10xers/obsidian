@@ -12,6 +12,7 @@
   - [x] Obsidian CLI: replaced by `vault-graph.js` on VPS (Obsidian desktop CLI = Mac-only binary). `scripts/vault-graph.js` has full graph traversal — `/vault-graph` skill wired — see [[03-Resources/tools/new-cli-tools-2026]]
   - [x] QMD: `@tobilu/qmd` v2.1.0 installed, vault indexed (60 files), `/qmd` skill wired — see [[03-Resources/tools/new-cli-tools-2026]]
 ## Recent Sessions
+  - [[99-Meta/session-logs/2026-04-26]] — 2026-04-26 13:50: feat: add step7_smartHeadingsExpand + two-pass score boost loop
   - [[99-Meta/session-logs/2026-04-26]] — 2026-04-26 13:28: feat: NW wizard score-boost loop — auto-insert terms until score ≥ 70
   - [[99-Meta/session-logs/2026-04-26]] — 2026-04-26 09:55: feat: NW title/description fallback + tool_html guard +1 more
   - [[99-Meta/session-logs/2026-04-26]] — 2026-04-26 09:19: fix: auto-set featured_media from hero image in comparison and free-to… +2 more
