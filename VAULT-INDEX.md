@@ -12,6 +12,7 @@
   - [x] Obsidian CLI: replaced by `vault-graph.js` on VPS (Obsidian desktop CLI = Mac-only binary). `scripts/vault-graph.js` has full graph traversal — `/vault-graph` skill wired — see [[03-Resources/tools/new-cli-tools-2026]]
   - [x] QMD: `@tobilu/qmd` v2.1.0 installed, vault indexed (60 files), `/qmd` skill wired — see [[03-Resources/tools/new-cli-tools-2026]]
 ## Recent Sessions
+  - [[99-Meta/session-logs/2026-04-26]] — 2026-04-26 20:16: fix: update persona template with richer user-provided descriptions +3 more
   - [[99-Meta/session-logs/2026-04-26]] — 2026-04-26 19:49: docs: apply 9-point feedback to NeuronWriter handoff guide +3 more
   - [[99-Meta/session-logs/2026-04-26]] — 2026-04-26 14:05: fix: add --brief-file arg so comparison pages use correct NW brief +1 more
   - [[99-Meta/session-logs/2026-04-26]] — 2026-04-26 13:50: feat: add step7_smartHeadingsExpand + two-pass score boost loop
