@@ -12,6 +12,7 @@
   - [x] Obsidian CLI: replaced by `vault-graph.js` on VPS (Obsidian desktop CLI = Mac-only binary). `scripts/vault-graph.js` has full graph traversal — `/vault-graph` skill wired — see [[03-Resources/tools/new-cli-tools-2026]]
   - [x] QMD: `@tobilu/qmd` v2.1.0 installed, vault indexed (60 files), `/qmd` skill wired — see [[03-Resources/tools/new-cli-tools-2026]]
 ## Recent Sessions
+  - [[99-Meta/session-logs/2026-04-27]] — 2026-04-27 09:15: refactor: publisher reads title from --page-name arg and Yoast from NW…
   - [[99-Meta/session-logs/2026-04-27]] — 2026-04-27 07:08: fix: NW title/desc always wins over payload in publisher script
   - [[99-Meta/session-logs/2026-04-26]] — 2026-04-26 20:35: feat: add Post Boost feature section to PRODUCT-OVERVIEW +1 more
   - [[99-Meta/session-logs/2026-04-26]] — 2026-04-26 20:16: fix: update persona template with richer user-provided descriptions +3 more
