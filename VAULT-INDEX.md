@@ -12,6 +12,7 @@
   - [x] Obsidian CLI: replaced by `vault-graph.js` on VPS (Obsidian desktop CLI = Mac-only binary). `scripts/vault-graph.js` has full graph traversal — `/vault-graph` skill wired — see [[03-Resources/tools/new-cli-tools-2026]]
   - [x] QMD: `@tobilu/qmd` v2.1.0 installed, vault indexed (60 files), `/qmd` skill wired — see [[03-Resources/tools/new-cli-tools-2026]]
 ## Recent Sessions
+  - [[99-Meta/session-logs/2026-04-27]] — 2026-04-27 20:08: chore: strengthen uncommitted-file-warning hook message +1 more
   - [[99-Meta/session-logs/2026-04-27]] — 2026-04-27 19:17: docs: note research pipeline pattern applies to future article wizard +7 more
   - [[99-Meta/session-logs/2026-04-27]] — 2026-04-27 11:57: docs: note research pipeline pattern applies to future article wizard +2 more
   - [[99-Meta/session-logs/2026-04-27]] — 2026-04-27 11:36: feat: add pricing + complaint token slots to comparison brief template +3 more
