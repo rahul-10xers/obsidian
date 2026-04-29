@@ -12,6 +12,7 @@
   - [x] Obsidian CLI: replaced by `vault-graph.js` on VPS (Obsidian desktop CLI = Mac-only binary). `scripts/vault-graph.js` has full graph traversal — `/vault-graph` skill wired — see [[03-Resources/tools/new-cli-tools-2026]]
   - [x] QMD: `@tobilu/qmd` v2.1.0 installed, vault indexed (60 files), `/qmd` skill wired — see [[03-Resources/tools/new-cli-tools-2026]]
 ## Recent Sessions
+  - [[99-Meta/session-logs/2026-04-29]] — 2026-04-29 07:33: Filled in the required info +15 more
   - [[99-Meta/session-logs/2026-04-29]] — 2026-04-29 07:11: refresh: notebooklm auth tokens (29 April 2026) +17 more
   - [[99-Meta/session-logs/2026-04-29]] — 2026-04-29 07:01: refresh: notebooklm auth tokens (29 April 2026) +2 more
   - [[99-Meta/session-logs/2026-04-28]] — 2026-04-28 17:08: docs: add Dynal brand context for Rahul Aswani LinkedIn setup +4 more
