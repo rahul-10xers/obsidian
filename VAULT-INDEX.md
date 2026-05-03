@@ -12,6 +12,7 @@
   - [x] Obsidian CLI: replaced by `vault-graph.js` on VPS (Obsidian desktop CLI = Mac-only binary). `scripts/vault-graph.js` has full graph traversal — `/vault-graph` skill wired — see [[03-Resources/tools/new-cli-tools-2026]]
   - [x] QMD: `@tobilu/qmd` v2.1.0 installed, vault indexed (60 files), `/qmd` skill wired — see [[03-Resources/tools/new-cli-tools-2026]]
 ## Recent Sessions
+  - [[99-Meta/session-logs/2026-05-03]] — 2026-05-03 18:58: chore: token log +9 more
   - [[99-Meta/session-logs/2026-05-03]] — 2026-05-03 15:23: chore: token log +4 more
   - [[99-Meta/session-logs/2026-05-03]] — 2026-05-03 13:11: chore: token log +26 more
   - [[99-Meta/session-logs/2026-05-03]] — 2026-05-03 10:22: chore: token log +13 more
